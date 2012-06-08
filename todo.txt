@@ -1,0 +1,15 @@
+1. Send Kevin the code/GIT. [Today]
+
+2. Check random pts outside the domain. (~10^6) [2nd]
+
+3. Run races on bounds and see which ones run fastest. [For b_{ij}, where {ij} are large, especially] [4th]
+
+4. See if decision tree is better than linear checks (flattening the decision tree) [3rd]
+
+5. PyPy [Today]
+
+6. Write reduction code in Cython. [Step 1, Section 4, jpv3.pdf] [1st]
+
+7. Compute splitting types. [Given (A,B) and prime p, compute the splitting type of Q(A,B), precompute the sieve] [Soon]
+
+8. 
